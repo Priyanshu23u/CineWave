@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699211354771",
+    "project_id": "ilmyfun",
+    "storage_bucket": "ilmyfun.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699211354771:android:963d553519de09d5aeb366",
+        "android_client_info": {
+          "package_name": "com.example.movie_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3nzK6bQLPE1q-T8rFKSCMPsr7CYE9a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

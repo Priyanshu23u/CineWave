@@ -54,8 +54,5 @@ In lib/services/constant.dart file , Enter your publishable key and Secret key, 
 - Use the QR code for verification at the theater.
 - View booking history and manage your profile.
 
-## Screenshots
 
-![Login Screen](images/signin.png)
-![Movie Listings](images/icon.png)
 
